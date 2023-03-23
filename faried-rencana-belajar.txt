@@ -6,3 +6,4 @@ rencana belajar
   - bljr bhs pmerogrmn lain
   - bljr IOT
   - bljr app desktop dn software
+  - bljr all framework dri bhs pemrog yg sdh d pljri
