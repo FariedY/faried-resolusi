@@ -3,3 +3,5 @@ rencana belajar
   - bljr keamanan komputer / cyber security
   - bljr AI dn 3d blender
   - bljr mmbuat game
+  - bljr bhs pmerogrmn lain
+  - bljr IOT
