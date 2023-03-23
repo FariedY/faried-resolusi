@@ -2,6 +2,7 @@ rencana belajar
   - bljr web dev dn atw mobile dev
   - bljr keamanan komputer / cyber security
   - bljr AI dn 3d blender
+  - bljr mmbuat AR/VR/Metaverse
   - bljr mmbuat game
   - bljr bhs pmerogrmn lain
   - bljr IOT
