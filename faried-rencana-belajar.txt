@@ -5,3 +5,4 @@ rencana belajar
   - bljr mmbuat game
   - bljr bhs pmerogrmn lain
   - bljr IOT
+  - bljr app desktop dn software
